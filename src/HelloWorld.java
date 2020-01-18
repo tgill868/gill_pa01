@@ -1,4 +1,3 @@
-package pro;
 
 public class HelloWorld {
 
